@@ -1,12 +1,14 @@
-package Task.junittask;
+package com.raj.junittask;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
-class task1Test {
+import Task.junittask.Task1;
+
+class Task1Test {
 	@Test
 	void testSumOfDigits() {
-		assertEquals(6,task1.SumOfDigits(123));
+		assertEquals(6,Task1.SumOfDigits(123));
 	}
 }

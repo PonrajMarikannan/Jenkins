@@ -1,6 +1,6 @@
 package Task.junittask;
 
-public class task5 {
+public class Task5 {
 	public static boolean fib(int n) {
 		
 		 int first = 0, second = 1,sum=0,c=0;

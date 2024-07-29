@@ -1,6 +1,6 @@
 package Task.junittask;
 
-public class task6 {
+public class Task6 {
 	
 	public static int prime(int n) {
 		

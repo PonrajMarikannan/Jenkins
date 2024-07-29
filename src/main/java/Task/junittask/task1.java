@@ -1,6 +1,6 @@
 package Task.junittask;
 
-public class task1 {
+public class Task1 {
 	
 	 public static int SumOfDigits(int n) {
 	    int total = 0;

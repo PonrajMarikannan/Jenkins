@@ -1,6 +1,6 @@
 package Task.junittask;
 
-public class task2 {
+public class Task2 {
 	
 	public static int MOD(int n) {
 	    int max = 0;

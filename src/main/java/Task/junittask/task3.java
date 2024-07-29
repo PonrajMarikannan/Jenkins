@@ -1,6 +1,6 @@
 package Task.junittask;
 
-public class task3 {
+public class Task3 {
 	
 	public static boolean IO(int n) {
 	   
